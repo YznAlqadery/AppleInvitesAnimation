@@ -8,8 +8,6 @@ Check out the animation in action:
 
 https://github.com/user-attachments/assets/4346845d-40b0-4add-9b26-849e4b1790ba
 
-![Apple Invites Animation](https://via.placeholder.com/800x400?text=Apple+Invites+Animation)
-
 ## Features
 
 - Smooth horizontal carousel with subtle rotation effects
